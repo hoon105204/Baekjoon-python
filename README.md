@@ -1,7 +1,6 @@
 # Baekjoon - Python
 
 - Baekjoon에 올라온 문제를 Python으로 풀어봅니다.
-- 링크를 통해 홈페이지에서 문제를 확인 가능하며, 직접 작성한 답을 같이 확인하세요.
 
 ## 조건문
 <details>
