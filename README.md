@@ -6,23 +6,25 @@
 <details>
 <summary>접기/펼치기</summary>
 <div markdown="1" style="padding-left:40px;">
-1. <A href = "https://www.acmicpc.net/problem/1330" target = "blank" > 두 수 비교하기 </A>
-▶<A href = "chap02/01두수비교하기.py" target = "blank" > 정답 </A><br>
-2. <A href = "https://www.acmicpc.net/problem/9498" target = "blank" > 시험 성적 </A>
-▶<A href = "chap02/02시험성적.py" target = "blank" > 정답 </A><br>
-3. <A href = "https://www.acmicpc.net/problem/2753" target = "blank" > 윤년 </A>
-▶<A href = "chap02/03윤년.py" target = "blank" > 정답 </A><br>
-4. <A href = "https://www.acmicpc.net/problem/14681" target = "blank" > 사분면 고르기 </A>
-▶<A href = "chap02/04사분면고르기.py" target = "blank" > 정답 </A><br>
-5. <A href = "https://www.acmicpc.net/problem/2884" target = "blank" > 알람 시계 </A>
-▶<A href = "chap02/05알람시계.py" target = "blank" > 정답 </A><br>
-6. <A href = "https://www.acmicpc.net/problem/2525" target = "blank" > 오븐 시계 </A>
-▶<A href = "chap02/06오븐시계.py" target = "blank" > 정답 </A><br>
-7. <A href = "https://www.acmicpc.net/problem/2480" target = "blank" > 주사위 세개 </A>
-▶<A href = "chap02/07주사위세개.py" target = "blank" > 정답 </A><br>
+<table>
+<tr><td>문제</td><td>정답</td></tr>
+<tr><td>1. <A href = "https://www.acmicpc.net/problem/1330" target = "blank" > 두 수 비교하기 </A></td><td>
+▶<A href = "chap02/01두수비교하기.py" target = "blank" > 정답 </A></td>
+<tr><td>2. <A href = "https://www.acmicpc.net/problem/9498" target = "blank" > 시험 성적 </A></td><td>
+▶<A href = "chap02/02시험성적.py" target = "blank" > 정답 </A></td>
+<tr><td>3. <A href = "https://www.acmicpc.net/problem/2753" target = "blank" > 윤년 </A></td><td>
+▶<A href = "chap02/03윤년.py" target = "blank" > 정답 </A></td>
+<tr><td>4. <A href = "https://www.acmicpc.net/problem/14681" target = "blank" > 사분면 고르기 </A></td><td>
+▶<A href = "chap02/04사분면고르기.py" target = "blank" > 정답 </A></td>
+<tr><td>5. <A href = "https://www.acmicpc.net/problem/2884" target = "blank" > 알람 시계 </A></td><td>
+▶<A href = "chap02/05알람시계.py" target = "blank" > 정답 </A></td>
+<tr><td>6. <A href = "https://www.acmicpc.net/problem/2525" target = "blank" > 오븐 시계 </A></td><td>
+▶<A href = "chap02/06오븐시계.py" target = "blank" > 정답 </A></td>
+<tr><td>7. <A href = "https://www.acmicpc.net/problem/2480" target = "blank" > 주사위 세개 </A></td><td>
+▶<A href = "chap02/07주사위세개.py" target = "blank" > 정답 </A></td>
+</table>
 </div>
 </details>
-
 ## 반복문
 <details>
 <summary>접기/펼치기</summary>
